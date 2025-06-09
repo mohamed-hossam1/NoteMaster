@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/notes_app.db
+data/users/
+*env/
+*venv/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+PyQt5==5.15.9
+bcrypt==4.0.1
+PyAudio==0.2.13
+
+# Note: PyAudio can sometimes be tricky to install.
+# On Linux, you may need: sudo apt-get install portaudio19-dev python3-dev
+# On macOS (Homebrew): brew install portaudio
+# On Windows, downloading a pre-compiled wheel from a site like
+# Christoph Gohlke's Unofficial Windows Binaries for Python Extension Packages
+# might be necessary if pip install fails, or use pipwin:
+# pip install pipwin
+# pipwin install pyaudio
+#
+# Always prefer using `pip freeze > requirements.txt` in your activated
+# virtual environment after installing all dependencies to get exact versions.
+
