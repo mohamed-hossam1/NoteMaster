@@ -95,7 +95,7 @@ NoteMaster-main/
 
 ```bash
 git clone https://github.com/mohamed-hossam1/NoteMaster.git
-cd NoteMaster-main
+cd NoteMaster
 python -m venv venv
 # Windows
 venv\Scripts\activate
