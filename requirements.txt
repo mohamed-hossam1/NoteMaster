@@ -1,6 +1,5 @@
 PyQt5==5.15.9
 bcrypt==4.0.1
-PyAudio==0.2.13
 
 # Note: PyAudio can sometimes be tricky to install.
 # On Linux, you may need: sudo apt-get install portaudio19-dev python3-dev
